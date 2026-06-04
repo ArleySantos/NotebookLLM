@@ -54,3 +54,22 @@ Tendências e IA: "Como a evolução para a 'era dos agentes e inteligência emp
 .
 Gestão de Carreira: "Quais ferramentas e stacks tecnológicos (ex: Dagster, AirByte, dbt) são frequentemente recomendados para projetos de portfólio que visam demonstrar competência em arquiteturas de BI modernas?"
 .
+
+
+Principais fontes utilizadas:
+
+r/dataengineering (Reddit): Esta fonte é essencial para discussões sobre tendências da indústria, como a migração entre Databricks e Snowflake, orquestração com ferramentas como Airflow e Dagster, e conselhos de carreira para engenheiros de dados
+.
+Link: https://www.reddit.com/r/dataengineering/
+Referência de mensagens e erros do Integration Services (Microsoft Learn): É a documentação técnica definitiva que lista e explica centenas de códigos de erro (DTS_E_*), avisos e mensagens informativas essenciais para a solução de problemas em pacotes SSIS
+.
+Link: Disponível via portal Microsoft Learn
+Newest 'ssis' Questions (Stack Overflow): Fornece uma visão prática e atualizada dos desafios enfrentados por desenvolvedores, incluindo conectividade com drivers Oracle/Snowflake e falhas de execução no Azure Data Factory
+.
+Link: https://stackoverflow.com/questions/tagged/ssis
+Integration Services (SSIS) Archives (SQLServerCentral): Contém artigos especializados e tutoriais sobre a migração do catálogo SSISDB, carregamento de dados complexos (como Excel via C#) e métodos para melhorar a performance de processos ETL
+.
+Link: https://www.sqlservercentral.com/
+Introdução ao design da arquitetura de banco de dados (Azure Architecture Center): Guia estratégico que auxilia na seleção de tecnologias de banco de dados (Relacional vs. NoSQL) e na modernização de arquiteturas legadas para o ecossistema de nuvem
+.
+Link: https://learn.microsoft.com/pt-br/azure/architecture/
